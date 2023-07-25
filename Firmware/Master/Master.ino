@@ -1,10 +1,11 @@
 //************************************************************
-// this is a simple example that uses the painlessMesh library
+// This is a simple example that uses the painlessMesh library
 // 
-// This example shows how to build a mesh with named nodes
+// This the master which recieves and sends information to the base cubes.
 //
 //************************************************************
 #include "namedMesh.h"
+
 
 #define   MESH_SSID       "whateverYouLike"
 #define   MESH_PASSWORD   "somethingSneaky"
