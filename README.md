@@ -13,7 +13,7 @@ Installing the dependencies:
 2. Voxelhap cubes also need FastLED library to manage LEDs on board. Download FastLED library from Arduino IDE.
    https://fastled.io/
 
-3. Voxelhap cubes also need ArduinoJson library to send JSON file to the master. SO download ArduinoJson library from Arduino IDE.
+4. Voxelhap cubes also need ArduinoJson library to send JSON file to the master. SO download ArduinoJson library from Arduino IDE.
    https://arduinojson.org/
    
 5. For master - slave communication between cubes and the master Wemos D1 we use painlessmesh library.
