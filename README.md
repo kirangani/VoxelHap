@@ -6,7 +6,7 @@ The voxel hap base cubes communicte based on Master - slave architecure. Master(
 
 This repository covers: 
 1. Establishiong bidirection connection between Master and base cube
-2. Stablishing connection between Unity and Master
+2. EStablishing connection between Unity and Master
 
 ![Connection_overview](https://github.com/kirangani/VoxelHap/assets/17798189/2c58aeb7-d2fb-4078-8863-977716c854b9)
 
