@@ -8,6 +8,7 @@ This repository covers:
 1. Establishiong bidirection connection between Master and base cube
 2. EStablishing connection between Unity and Master
 
+The Figure below gives overview of thw whole communication pipeline. 
 ![Connection_overview](https://github.com/kirangani/VoxelHap/assets/17798189/2c58aeb7-d2fb-4078-8863-977716c854b9)
 
 Firmware folder contains the arduino files, Master.ino should be uploaded onto the masetr Wemos D1 mini and Slave_VoxelHap_Cubes.ino need to be uploaded on the VoxelHap base cubes. 
