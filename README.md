@@ -1,8 +1,9 @@
 # VoxelHap
 This repository is for getting started with VoxelHap 
-
 In this repository you will find step by step guide on how to set up Voxelhap base cubes with unity and establish communication. 
- The voxel hap base cubes communicte based on Master - slave architecure. Master(Wemos D1 mini) is connected to Unity via serial port and slaves(VoxelHap cubes- built using Wemos D1 mini) communicate to master wirelessly using PainlessMesh.  
+The voxel hap base cubes communicte based on Master - slave architecure. Master(Wemos D1 mini) is connected to Unity via serial port and slaves(VoxelHap cubes- built using Wemos D1 mini) communicate to master wirelessly using PainlessMesh.  
+
+
 
 Firmware folder contains the arduino files, Master.ino should be uploaded onto the masetr Wemos D1 mini and Slave_VoxelHap_Cubes.ino need to be uploaded on the VoxelHap base cubes. 
 
@@ -19,5 +20,5 @@ Installing the dependencies:
 5. For master - slave communication between cubes and the master Wemos D1 we use painlessmesh library.
    Download Painlessmesh library from Arduino IDE, specifically namedmesh example.
    https://gitlab.com/painlessMesh/painlessMesh/-/tree/develop/examples/namedMesh?ref_type=heads
-       
 
+For Unity- Master communication establish Serial communication. 
