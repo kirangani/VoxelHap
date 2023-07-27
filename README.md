@@ -26,4 +26,4 @@ Installing the dependencies:
    Download Painlessmesh library from Arduino IDE, specifically namedmesh example.
    https://gitlab.com/painlessMesh/painlessMesh/-/tree/develop/examples/namedMesh?ref_type=heads
 
-For Unity- Master communication establish Serial communication. 
+For Unity- Master communication establish Serial communication and import the unity package.   
